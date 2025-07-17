@@ -7,6 +7,7 @@ The project contract was awarded to Hamilton Ecological Consulting (BC, Canada).
 
 Statistical analysis was coducted by Dr. Julia Chandler and Dr. Sybille Haeussler.
 
+
 The following individuals are thanked for their contribution of time and expertise at the initiation of the project:
 
 •	Randy Harris – East Kootenay Invasive Species Council
@@ -39,6 +40,7 @@ FLNRO
 Parks Canada
 •	Jed Cochrane
 •	Charlie McLellan
+
 
 The original collection of data and reporting were funded by the following agencies
 
