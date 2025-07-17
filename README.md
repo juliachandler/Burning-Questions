@@ -1,13 +1,13 @@
 # Burning-Questions
-This project was funded by the Forest Enhancement Society of British Columbia (FESBC) and the BC Ministry of Forests Lands and Natural Resource Operations.
+
+This project was funded by the Forest Enhancement Society of British Columbia (FESBC) and the Rocky Mountain Trench Natural Resources Society..
 This product has been produced for Forest Enhancement Society of British Columbia based (in part) on data provided by Parks Canada Agency.
 
 Statistical analysis coducted by:
 Dr. Julia Chandler
 Dr. Sybille Haeussler
 
-ACKNOWLEDGEMENTS
-This project was funded by the Forest Enhancement Society of British Columbia (FESBC) and the Rocky Mountain Trench Natural Resources Society. The following individuals are thanked for their contribution of time and expertise at the initiation of the project:
+The following individuals are thanked for their contribution of time and expertise at the initiation of the project:
 
 •	Randy Harris – East Kootenay Invasive Species Council
 •	Jeff Allen – Self-employed consultant
@@ -15,7 +15,7 @@ This project was funded by the Forest Enhancement Society of British Columbia (F
 •	Dan Murphy – Rocky Mountain Trench Natural Resources Society
 •	Tim Ross – Self-employed consultant
 •	Steve Byford – Grassland and Rangeland Enhancement Program 
-•	Emily Nilsen ¬¬– Columbia Basin Trust
+•	Emily Nilsen – Columbia Basin Trust
 •	Juliet Craig – Kootenay Conservation Program
 
 FLNRO
