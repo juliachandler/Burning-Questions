@@ -1,11 +1,10 @@
 # Burning-Questions
 
-This project was funded by the Forest Enhancement Society of British Columbia (FESBC) and the Rocky Mountain Trench Natural Resources Society..
+This project was funded by the Forest Enhancement Society of British Columbia (FESBC) and the Rocky Mountain Trench Natural Resources Society.
 This product has been produced for Forest Enhancement Society of British Columbia based (in part) on data provided by Parks Canada Agency.
 
 Statistical analysis coducted by:
-Dr. Julia Chandler
-Dr. Sybille Haeussler
+Dr. Julia Chandler and Dr. Sybille Haeussler
 
 The following individuals are thanked for their contribution of time and expertise at the initiation of the project:
 
