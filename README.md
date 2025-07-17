@@ -1,4 +1,4 @@
-# Burning-Questions
+# Burning-Questions Meta-Analysis
 
 This project was funded by the Forest Enhancement Society of British Columbia (FESBC) and the Rocky Mountain Trench Natural Resources Society.
 This product has been produced for Forest Enhancement Society of British Columbia based (in part) on data provided by Parks Canada Agency.
